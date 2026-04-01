@@ -1,9 +1,9 @@
 {
   "required": true,
   "package": "me.TreeOfSelf.mixin",
-  "compatibilityLevel": "JAVA_21",
+  "compatibilityLevel": "JAVA_25",
   "mixins": [
-    "CommandsMixin",
+    "CommandsMixin"
   ],
   "injectors": {
     "defaultRequire": 1
